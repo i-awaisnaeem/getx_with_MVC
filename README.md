@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # getx_with_mvc
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# getx_with_MVC
+>>>>>>> 3d63e476246f678ec266ccef3e7bd4f7590df449
